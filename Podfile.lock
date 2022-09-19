@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.6.1)
+  - Kingfisher (7.3.1)
+  - LookinServer (1.0.6)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher (~> 7.0)
+  - LookinServer
+  - SnapKit (~> 5.6.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - LookinServer
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  Kingfisher: f411ab4902e733fc0c40522920fb5a236d7a7334
+  LookinServer: 18155b1e4a08213c236a1dd6b7ca52328a70a1e3
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: 6f875f3fb709374314117350d201393fc0050952
+
+COCOAPODS: 1.11.3
